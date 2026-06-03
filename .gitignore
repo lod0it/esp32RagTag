@@ -1,0 +1,29 @@
+# Arduino IDE generated files
+*.log
+
+# Compiled byte code
+*.hex
+*.elf
+*.bin
+*.ico
+
+# Sketchbook folder (if you use the Arduino IDE's standard location)
+sketchbook/
+
+# Temporary build files and folders created during compilation
+.build/
+/build/
+/.pio*
+
+# PlatformIO related directories/filenames if used
+*.pio*
+*.pid
+*build/
+*cache/
+
+# Serial Monitor output logs
+SerialMonitor.txt
+
+# Other miscellaneous temporary files
+*.tmp
+*.swp
