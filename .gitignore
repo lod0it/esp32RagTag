@@ -27,3 +27,6 @@ SerialMonitor.txt
 # Other miscellaneous temporary files
 *.tmp
 *.swp
+
+# Continue.dev
+/.continue/
